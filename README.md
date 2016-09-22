@@ -10,3 +10,6 @@
 
 
 [1]: https://github.com/joriscai/Abandon-Supplicant-Tools/blob/master/images/1.png "主界面"
+
+Ideas come from:
+http://www.33lc.com/article/29279.html
